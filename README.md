@@ -34,9 +34,8 @@ interests: ["e-commerce", "workflow automation", "clean UI"]
 ### 📊 Stats
 
 <div align="center">
-
-![Stats](./profile/stats.svg)
-
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/langs.svg" height="170" />
 </div>
 
 
